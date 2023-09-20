@@ -2,30 +2,30 @@ import random, html
 
 # Class that holds data for a particular question
 class Question():
-    question = ""
-    answers = []
-    correct = ""
-    category = ""
-    difficulty = ""
+	question = ""
+	answers = []
+	correct = ""
+	category = ""
+	difficulty = ""
 
-    def __init__(self, question = "", answers = [], category = "", difficulty = ""):
-        self.question = self.parse_html(question)
-        self.category = self.parse_html(category)
-        self.difficulty = self.parse_html(difficulty)
+	def __init__(self, question = "", answers = [], category = "", difficulty = ""):
+		self.question = self.parse_html(question)
+		self.category = self.parse_html(category)
+		self.difficulty = self.parse_html(difficulty)
 
-        self.answers = self.parse_html(answers)
-        self.correct = self.answers[0]
-        
-        random.shuffle(self.answers)
+		self.answers = self.parse_html(answers)
+		self.correct = self.answers[0]
+		
+		random.shuffle(self.answers)
 
-    def parse_html(self, data = "") -> any:
+	def parse_html(self, data = "") -> any:
 
-        if (isinstance(data, list)):
-            new_data = []
+		if (isinstance(data, list)):
+			new_data = []
 
-            for text in data:
-                new_data.append(self.parse_html(text.strip()))
+			for text in data:
+				new_data.append(self.parse_html(text.strip()))
 
-            return new_data
+			return new_data
 
-        return html.unescape(data)
+		return html.unescape(data)
