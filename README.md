@@ -6,5 +6,8 @@ As this is a CLI-based game, it can be played kinda unnoticed by teachers (at le
 
 This game is powered by [OpenTDB](https://opentdb.com/) to get questions.
 
-## Contribute
+### How to play
+Run the python script at `src/main.py`, this will start the game and send you to the main menu
+
+## Donating
 You can send me a donation on Ko-fi
