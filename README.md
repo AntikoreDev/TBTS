@@ -1,15 +1,17 @@
 # TBTS
-<a href="https://github.com/AntikoreDev/TBTS" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/TBTS?style=for-the-badge"></a>
-<a href="https://github.com/AntikoreDev/TBTS/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/TBTS?style=for-the-badge"></a>
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/AntikoreDev/TBTS/total?style=for-the-badge">
-<img alt ="Lines" src = "https://img.shields.io/tokei/lines/github/AntikoreDev/TBTS?label=Lines&style=for-the-badge">
+<div align="center">
+	<a href="https://github.com/AntikoreDev/TBTS" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/TBTS?style=for-the-badge"></a>
+	<a href="https://github.com/AntikoreDev/TBTS/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/TBTS?style=for-the-badge"></a>
+	<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/AntikoreDev/TBTS/total?style=for-the-badge">
+	<img alt ="Lines" src = "https://img.shields.io/tokei/lines/github/AntikoreDev/TBTS?label=Lines&style=for-the-badge">
+	<br>
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AntikoreDev/TBTS?style=for-the-badge">
+	<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/AntikoreDev/TBTS?style=for-the-badge">
+	<img alt="Made in Spain" src="https://img.shields.io/badge/Made%20in-Spain-FF0000?style=for-the-badge&labelColor=FF0000&color=FFFF00">
+</div>
 <br>
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AntikoreDev/TBTS?style=for-the-badge">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/AntikoreDev/TBTS?style=for-the-badge">
-<img alt="Made in Spain" src="https://img.shields.io/badge/Made%20in-Spain-FF0000?style=for-the-badge&labelColor=FF0000&color=FFFF00">
-
-_TBTS stands for TBTS better than school_
-
+<div align="center"><i>TBTS stands for TBTS better than school</i></div>
+<br>
 Open-source CLI-based solo trivia game made in [Python](https://www.python.org/) designed for those big-brained people that get sleepy on computer science classes because everything is so easy/so outdated they can't even afford to care about it.<br>
 As this is a CLI-based game, it can be played kinda unnoticed by teachers (at least if you're on a computer science course), and you're going to learn more from this than whatever they're talking on class.
 
