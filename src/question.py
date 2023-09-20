@@ -13,10 +13,8 @@ class Question():
         self.category = self.parse_html(category)
         self.difficulty = self.parse_html(difficulty)
 
-        
-
         self.answers = self.parse_html(answers)
-        self.correct = answers[0]
+        self.correct = self.answers[0]
         
         random.shuffle(self.answers)
 
@@ -26,9 +24,8 @@ class Question():
             new_data = []
 
             for text in data:
-                new_data.append(self.parse_html(text))
+                new_data.append(self.parse_html(text.strip()))
 
             return new_data
 
-        text = html.unescape(data)
-        return text
+        return html.unescape(data)
