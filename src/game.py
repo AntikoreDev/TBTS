@@ -43,7 +43,7 @@ class Game():
 		print("A) Classic Mode\nB) Ranked Mode 🚧\nC) Survival Mode 🚧\nD) Exit Game")
 		print()
 
-		response: str = input("A-B> ").strip().upper()
+		response: str = input("A-D> ").strip().upper()
 		
 		if (response == "A"): self.game()
 		elif (response == "D"): self.stop()
