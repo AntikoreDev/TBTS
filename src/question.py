@@ -1,4 +1,5 @@
-import random, html
+import html
+import random
 
 # Class that holds data for a particular question
 class Question():
