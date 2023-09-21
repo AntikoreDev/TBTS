@@ -36,7 +36,7 @@ Afterwards, you can quickly run the game by using the following command on the r
 ```bash
 [sudo] py main.py
 ```
-__
+
 _Note that linux may not have the `py` command itself, you may need to use `python` or `python3` in order to run python_
 _Note that `keyboard` module may require of sudo permissions on linux when running from source. You may have to re-install requirements on root depending on your configuration_
 _Note that `keyboard` module may have issues installing on linux, you can use `--break-system-packages` at your own risk_
