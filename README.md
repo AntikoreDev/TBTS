@@ -13,14 +13,33 @@
 <div align="center"><i>TBTS stands for TBTS better than school</i></div>
 <br>
 
-**TBTS** is an open-source CLI-based solo trivia game made in [Python](https://www.python.org/) designed for those big-brained people that get sleepy on computer science classes because everything is so easy/so outdated they can't even afford to care about it.<br>
-As this is a CLI-based game, it can be played kinda unnoticed by teachers (at least if you're on a computer science course), and you're going to learn more from this than whatever they're talking on class.
+**TBTS** is an open-source terminal-based solo trivia game made in [Python](https://www.python.org/) designed for those big-brained people that get sleepy on computer science classes because everything is so easy/so outdated they can't even afford to care about it.<br>
+As this is a terminal-based game, it can be played kinda unnoticed by teachers (at least if you're on a computer science course), and you're going to learn more from this than whatever they're talking on class.
 
 This game is powered by [OpenTDB](https://opentdb.com/) to get questions. I'm not responsible on what's going on there, proceed with caution, buckaroo!
 
 ### How to play
-Run the python script at `src/main.py`. This will make the game begin.<br>
-Each run is **15** questions, the highest score you can get is `45,000` as you have to be very quick with your answers. Questions itself have no time and you can answer whenever you want (though you may not get points at all lol)
+Each run is **15** questions, the highest score you can get is `45,000` as you have to be very quick with your answers. Questions itself have 
+no time and you can answer whenever you want (though you may not get points at all lol)
+
+## Installation process
+You can access to any of the binaries available on this repository at [Releases](https://github.com/AntikoreDev/TBTS/releases) tab
+
+### Running from source
+If you're not a fan of binaries, here's a list of instructions on how to build the project from source. Obviously the first thing you have to do is cloning the repository on your local machine.
+
+Once you've got a local copy of the repository, you may need to install all requirements that proceed. This can be easily done using `pip` by running the following command:
+```bash
+pip install -r requirements.txt
+```
+Afterwards, you can quickly run the game by using the following command on the root directory of the repository:
+```bash
+py main.py
+```
+_Note that linux may not have the `py` command itself, you may need to use `python` or `python3` in order to run python_
+
+### Building from Source
+W.I.P
 
 ## Contributing
 As long as your additions are not _trivial_ 😉, you can always post an issue and/or making a pull request. Please be polite!
