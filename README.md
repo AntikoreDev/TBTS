@@ -34,9 +34,10 @@ pip install -r requirements.txt
 ```
 Afterwards, you can quickly run the game by using the following command on the root directory of the repository:
 ```bash
-py main.py
+[sudo] py main.py
 ```
 _Note that linux may not have the `py` command itself, you may need to use `python` or `python3` in order to run python_
+_Note that `keyboard` module may require of sudo permissions on linux when running from source. You may have to re-install requirements on root depending on your configuration_
 
 ### Building from Source
 W.I.P
