@@ -8,11 +8,11 @@
 <div align="center">
 	<a href="https://github.com/AntikoreDev/TBTS" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/TBTS?style=for-the-badge"></a>
 	<a href="https://github.com/AntikoreDev/TBTS/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/TBTS?style=for-the-badge"></a>
-	<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/AntikoreDev/TBTS/total?style=for-the-badge">
+	<a href="https://github.com/AntikoreDev/TBTS/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/AntikoreDev/TBTS/total?style=for-the-badge"></a>
 	<br>
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AntikoreDev/TBTS?style=for-the-badge">
-	<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/AntikoreDev/TBTS?style=for-the-badge">
-	<img alt="Made in Spain" src="https://img.shields.io/badge/Made%20in-Spain-FF0000?style=for-the-badge&labelColor=FF0000&color=FFFF00">
+	<a href="https://github.com/AntikoreDev/TBTS"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AntikoreDev/TBTS?style=for-the-badge"></a>
+	<a href="https://github.com/AntikoreDev/TBTS"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/AntikoreDev/TBTS?style=for-the-badge"></a>
+	<a href="https://en.wikipedia.org/wiki/Spain"><img alt="Made in Spain" src="https://img.shields.io/badge/Made%20in-Spain-FF0000?style=for-the-badge&labelColor=FF0000&color=FFFF00"></a>
 </div>
 <br>
 
