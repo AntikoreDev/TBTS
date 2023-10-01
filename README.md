@@ -40,7 +40,7 @@ Once you've got a local copy of the repository, you may need to install all requ
 ```
 Afterwards, you can quickly run the game by using the following command on the root directory of the repository:
 ```bash
-[sudo] py main.py
+[sudo] py cli.py
 ```
 
 _Note that linux may not have the `py` command itself, you may need to use `python` or `python3` in order to run python_
