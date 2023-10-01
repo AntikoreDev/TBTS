@@ -1,7 +1,7 @@
 """
 This python function contains various constants used along the game
 """
-VERSION = "1.0"
+VERSION = "0.1"
 GITHUB_REPO = "https://github.com/AntikoreDev/TBTS"
 
 EMOJIS = list(set("🐶🐱🐭🐹🐰🦊🐻🐼🐨🐯🦁🐮🐷🐽🐸🐒🐔🐧🐦🐤🐣🐥🦆🦅🦉🦇🐺🐗🐴🦄🐝🐛🦋🐌🐞🐜🦗️🦂🦟🦠🐢🐍🦎🐊🐅🐆🦓🦍🐘🦏🦛🦒🐫🐪🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥥🥑🍆🥔🥕🌽🥒🥬🥦🍄🥜🌰🍞🥐🥖🥨🥞🧀🍖🍗🥩🥓🍔🍟🍕🌭🍿🍲🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍞🍳🥓🍔🍟🍕🍣🍦🍪🍰🍫🍬🍭🍺🍷🥤🍽️🍴🧹🚽🚿🛁🧻🧼🧽🔑🚪📱💻️📷🎥📻📺📚📰️📦📂️📝🖊️📅📌📎🧷🧵🧶🎮🧩️📫📬📭📮️📧💌📩📪📠️📞📟📻📺️️️🧭🔋🔌💡🔦💸💰💳💎📿📲📱🎧🎤🎶🎵🎼🎻🎹🥁🎷🎺🎸🪕🎭️🎨"))
