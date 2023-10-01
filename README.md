@@ -30,7 +30,7 @@ If you're not a fan of binaries, here's a list of instructions on how to build t
 
 Once you've got a local copy of the repository, you may need to install all requirements that proceed. This can be easily done using `pip` by running the following command:
 ```bash
-pip install -r requirements.txt
+[sudo] pip install -r requirements.txt
 ```
 Afterwards, you can quickly run the game by using the following command on the root directory of the repository:
 ```bash
@@ -42,7 +42,12 @@ _Note that `keyboard` module may require of sudo permissions on linux when runni
 _Note that `keyboard` module may have issues installing on linux, you can use `--break-system-packages` at your own risk_
 
 ### Building from Source
-W.I.P
+Using `pyinstaller` after you cloned the repository, you can simply run the following command:
+
+```bash
+[sudo] pyinstaller cli.py --onefile --name TBTS
+```
+This should generate a file at the new generated directory `dist/` named `TBTS.exe` if you're running on Windows.
 
 ## Contributing
 As long as your additions are not _trivial_ 😉, you can always post an issue and/or making a pull request. Please be polite!
