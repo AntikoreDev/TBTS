@@ -3,7 +3,6 @@
 	<a href="https://github.com/AntikoreDev/TBTS" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/TBTS?style=for-the-badge"></a>
 	<a href="https://github.com/AntikoreDev/TBTS/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/TBTS?style=for-the-badge"></a>
 	<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/AntikoreDev/TBTS/total?style=for-the-badge">
-	<img alt ="Lines" src = "https://img.shields.io/tokei/lines/github/AntikoreDev/TBTS?label=Lines&style=for-the-badge">
 	<br>
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AntikoreDev/TBTS?style=for-the-badge">
 	<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/AntikoreDev/TBTS?style=for-the-badge">
