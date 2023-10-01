@@ -1,4 +1,9 @@
 # TBTS
+<img src="https://github.com/AntikoreDev/TBTS/blob/main/assets/icon.png?raw=true" alt="TBTS logo" align="center" width="128" height="128"/>
+<br>
+<div align="center"><i>TBTS stands for TBTS better than school</i></div>
+<br>
+
 <div align="center">
 	<a href="https://github.com/AntikoreDev/TBTS" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/TBTS?style=for-the-badge"></a>
 	<a href="https://github.com/AntikoreDev/TBTS/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/TBTS?style=for-the-badge"></a>
@@ -9,8 +14,9 @@
 	<img alt="Made in Spain" src="https://img.shields.io/badge/Made%20in-Spain-FF0000?style=for-the-badge&labelColor=FF0000&color=FFFF00">
 </div>
 <br>
-<div align="center"><i>TBTS stands for TBTS better than school</i></div>
-<br>
+
+
+
 
 **TBTS** is an open-source terminal-based solo trivia game made in [Python](https://www.python.org/) designed for those big-brained people that get sleepy on computer science classes because everything is so easy/so outdated they can't even afford to care about it.<br>
 As this is a terminal-based game, it can be played kinda unnoticed by teachers (at least if you're on a computer science course), and you're going to learn more from this than whatever they're talking on class.
