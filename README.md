@@ -44,7 +44,7 @@ _Note that `keyboard` module may have issues installing on linux, you can use `-
 Using `pyinstaller` after you cloned the repository, you can simply run the following command:
 
 ```bash
-[sudo] pyinstaller cli.py --onefile --name TBTS
+[sudo] pyinstaller cli.py --onefile --name TBTS --icon=assets/icon.ico
 ```
 This should generate a file at the new generated directory `dist/` named `TBTS.exe` if you're running on Windows.
 
