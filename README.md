@@ -1,11 +1,11 @@
 # TBTS
 <div align="center">
 	<img src="https://github.com/AntikoreDev/TBTS/blob/main/assets/icon.png?raw=true" alt="TBTS logo" width="128" height="128"/>
-	<br>
+	<br><br>
 	<i>TBTS stands for TBTS better than school</i>
 	<br>
 </div>
-
+<br>
 <div align="center">
 	<a href="https://github.com/AntikoreDev/TBTS" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/TBTS?style=for-the-badge"></a>
 	<a href="https://github.com/AntikoreDev/TBTS/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/TBTS?style=for-the-badge"></a>
