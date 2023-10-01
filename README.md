@@ -1,4 +1,3 @@
-# TBTS
 <div align="center">
 	<img src="https://github.com/AntikoreDev/TBTS/blob/main/assets/icon.png?raw=true" alt="TBTS logo" width="128" height="128"/>
 	<br><br>
