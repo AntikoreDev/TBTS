@@ -10,8 +10,3 @@ def main():
 	# Whenever the user interrupts the terminal with Ctrl+C or similar, stop the game without raising an error
 	except KeyboardInterrupt:
 		game.stop()
-
-# Game Starter
-if (__name__ == "__main__"):
-	main()
-		
