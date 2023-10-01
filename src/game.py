@@ -34,7 +34,7 @@ class Game():
 	def menu(self, count: int = 0):
 		utils.clear()
 
-		print(f"⭐️ TBTS Game - v{VERSION} - Created by AntikoreDev")
+		print(f"⭐️ TBTS Game - {VERSION} - Created by AntikoreDev")
 		print(f"Includes {count} questions from OpenTDB")
 		print()
 		print("A) Classic Mode\nB) Ranked Mode 🚧\nC) Survival Mode 🚧\nD) Exit Game")
