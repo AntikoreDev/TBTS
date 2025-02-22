@@ -12,9 +12,9 @@ def clear():
 	os.system("cls" if is_windows else "clear")
 
 # Get the index by the letter the player choose
-def get_idx_by_letter(letter: str) -> int:
+def get_idx_by_letter(letter: str, list: list = TRIVIA_LETTERS) -> int:
 	try:
-		return TRIVIA_LETTERS.index(letter.strip().upper())
+		return list.index(letter.strip().upper())
 	except:
 		return -1
 
@@ -47,3 +47,6 @@ def halt_or_skip(text: str, max_time: float = 3, min_time: float = 0.5) -> bool:
 		if (keyboard.is_pressed("enter") and s > min_time):
 			return True
 	return True
+
+def format_number(n: int) -> str:
+	return "{:,}".format(n)

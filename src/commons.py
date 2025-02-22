@@ -10,4 +10,5 @@ CORRECT_RESPONSES = ["That's right!", "So cool!", "Nice shot", "You're correct!"
 INCORRECT_RESPONSES = ["No nitwit", "Bzzzz", "That's wrong", "Nope buddy", "F", "Pretty bad", "That feels sad", "Incorrect!", "False"]
 
 TRIVIA_LETTERS = list("ABCD")
+SELECTION_LETTERS = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
 ROUND_QUESTION_COUNT = 15
