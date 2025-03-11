@@ -16,6 +16,7 @@ class Menu():
 			Selection("Classic Mode", self.start_classic),
 			Selection("Ranked Mode", available = False),
 			Selection("Survival Mode", available = False),
+			Selection("Settings", available = False),
 			Selection("Exit Game", self.end)
 		]
 
