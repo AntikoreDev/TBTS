@@ -27,6 +27,7 @@ class Run():
 
 		utils.clear()
 		print(f"Your score is {utils.format_number(score)} 💎")
+		print(f"NEW HIGHSCORE!") # TODO: Implement highscore system
 		print(f"✅ {correct} · ❌ {ROUND_QUESTION_COUNT - correct}")
 		
 		time.sleep(3)
