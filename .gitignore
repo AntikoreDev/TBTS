@@ -154,3 +154,9 @@ test.json
 
 # VSC
 .vscode/
+.venv/
+include/
+bin/
+pyvenv.cfg
+lib64/
+lib64
